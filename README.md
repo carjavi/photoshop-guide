@@ -33,6 +33,20 @@ Se creará una capa con una máscara de corte que luego podrá editarse para mej
 
 <br>
 
+# How to Remove Someone or Remove Objects from a Stage
+<p align="center"><img src="./img/sample1.jpg" height="220" alt=" " /></p>
+
+1. seleccionar la herramienta ```lasso tool``` o key <kbd>L</kbd>. y seleccionar el objeto a remover, incluyendo su sombra o interaccion con el escenario.
+2. barra de herramienta, ```Edit/fill```, con ```Contents: Content-Aware```, key <kbd>OK</kbd>
+ <p align="center"><img src="./img/sample1_2.jpg" height="220" alt=" " /></p>
+
+3. listo
+<p align="center"><img src="./img/sample2.jpg" height="220" alt=" " /></p>
+
+<br>
+
+<br>
+
 ---
 Copyright &copy; 2022 [carjavi](https://github.com/carjavi). <br>
 ```www.instintodigital.net``` <br>
